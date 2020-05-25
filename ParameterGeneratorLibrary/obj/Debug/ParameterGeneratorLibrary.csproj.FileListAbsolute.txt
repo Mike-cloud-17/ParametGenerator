@@ -1,0 +1,5 @@
+C:\Users\Mi\source\repos\ParameterGeneratorLibrary\bin\Debug\ParameterGeneratorLibrary.dll
+C:\Users\Mi\source\repos\ParameterGeneratorLibrary\bin\Debug\ParameterGeneratorLibrary.pdb
+C:\Users\Mi\source\repos\ParameterGeneratorLibrary\obj\Debug\ParameterGeneratorLibrary.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ParameterGeneratorLibrary\obj\Debug\ParameterGeneratorLibrary.dll
+C:\Users\Mi\source\repos\ParameterGeneratorLibrary\obj\Debug\ParameterGeneratorLibrary.pdb
